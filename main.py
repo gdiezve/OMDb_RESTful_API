@@ -2,7 +2,6 @@ from api import *
 from data_cleaning import *
 import memcache
 
-
 # Ask for the title to search
 inp = input('Insert the title you want to search:\n')
 

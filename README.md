@@ -1,1 +1,3 @@
-# OMDb_RESTful_API
+# RESTful API from OMDb
+
+This application executes
